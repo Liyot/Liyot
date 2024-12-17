@@ -5,15 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liyot" alt="liyot" /></a> </p>
 
-- 🔭 I’m currently working on [Linesia and some personal projects](https://discord.gg/linesiafr)
-
-- 🌱 I’m currently learning **Native React and C#**
-
-- 💬 Ask me about **Pocketmine**
-
 - 📫 How to reach me **contact.litoz.pro@gmail.com**
 
-- ⚡ Fun fact **I play Raimbow Six Siege and I'm a talent player of Fifa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
